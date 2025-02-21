@@ -1,5 +1,5 @@
 ## Hi there 👋
-## - 🌱 I’m currently learning about cybersecurity
+## - 🌱 I’m currently learning about technical writing
 ## - 🔭 I’m currently working on ways to communicate technical topics into visually appealing, easy to understand concepts
 ## - 🤔 I’m looking for help with getting started on GitHub
 
